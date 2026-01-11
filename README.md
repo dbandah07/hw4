@@ -12,3 +12,6 @@ The homework emphasizes **recursive reasoning, tree traversal, and careful handl
 - Clean separation between implementation and testing
 - Test cases validating correctness across multiple tree structures
 - Build automation using a Makefile
+
+## Notes
+Completed during Fall 2025. 
